@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/HP/IdeaProjects/SOS_App/src/test/java/com/shopifyapptest/testclass/POC_TestClass.java">
+        <classes>
+            <class name="com.shopifyapptest.testclass.POC_TestClass">
+                <methods>
+                    <include name="Verify_Pumper_Offer_Creation"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
